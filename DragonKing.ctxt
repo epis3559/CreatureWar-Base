@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=hp\ strength
+comment0.target=DragonKing(int,\ int)
+comment0.text=\r\n\ DragonKing\ method\ that\ declares\ @param\ hp(hitpoints)\ and\ stregth.\r\n
+comment1.params=
+comment1.target=int\ damage()
+comment1.text=\r\n\ Method\ that\ allows\ Dragon\ King\ to\ take\ considerable\ damage.\r\n\ Allowing\ for\ regenerative\ healing\ powers.\r\n
+numComments=2

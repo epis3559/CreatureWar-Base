@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Army(int)
+comment0.text=\r\n\ Method\ that\ displays\ the\ size\ of\ the\ Armies.\r\n
+comment1.params=size
+comment1.target=void\ createArmy(int)
+comment2.params=
+comment2.target=void\ viewArmy()
+comment2.text=\r\n\ Methods\ to\ view\ the\ Armies.\r\n
+comment3.params=i
+comment3.target=void\ viewWarriors(int)
+comment4.params=i
+comment4.target=int\ Attack(int)
+comment5.params=i\ dmg
+comment5.target=boolean\ Defend(int,\ int)
+comment6.params=
+comment6.target=int\ GetSize()
+numComments=7

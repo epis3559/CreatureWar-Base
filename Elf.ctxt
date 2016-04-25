@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elf()
+comment0.text=\r\n\ Constructor\ for\ object\ of\ class\ Elf\ has\ characteristics\ of\ super\ class\ Creature.\r\n
+comment1.params=hp\ str
+comment1.target=Elf(int,\ int)
+comment1.text=\r\n\ Constructor\ with\ parameters\ hp\ and\ str\r\n
+comment2.params=
+comment2.target=int\ getDamage()
+comment2.text=\r\n\ getDamage\ method\ that\ returns\ inheritedDamage\ or\ inheritedDamage\ x2\r\n\ @return\ inheritedDamage.\r\n
+numComments=3

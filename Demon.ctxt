@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demon()
+comment1.params=hp\ str
+comment1.target=Demon(int,\ int)
+comment2.params=
+comment2.target=int\ getDamage()
+comment2.text=\r\n\ getDamage\ method\ to\ do\ magical\ damage\ and\ return\ damage\ (+50).\r\n\ @return\ inheritedDamage.\ \r\n
+numComments=3
